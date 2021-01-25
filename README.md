@@ -1,5 +1,7 @@
 # AdventeurMVP
+Project moved: https://gitlab.com/justinmillerdev/AdventeurMVP 
 Nature/Adventure mulitimedia subcription based editorial. Contributors funded through user interaction, promoting content creators from all mediums with an emphasis on written word.
+
 
 # Tech
 ### Frontend:
